@@ -1,6 +1,6 @@
 # modbus_Arduino_Pac3200
 
-* link para tutorial no blog: https://wordpress.com/post/sabedinada.com/1868
+* link para tutorial no blog: https://sabedinada.com/2022/06/17/modbus-rtu-entre-multimedidor-pac-3200-e-arduino-mega/
 
 *Realizado a comunicação entre arduino mega e Multimedidor PAC 3200 via rede Modbus RTU.
 
